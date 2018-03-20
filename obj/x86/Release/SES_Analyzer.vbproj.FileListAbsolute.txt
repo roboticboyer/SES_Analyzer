@@ -1,0 +1,33 @@
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\bin\Release\SES_Analyzer.exe
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\bin\Release\SES_Analyzer.pdb
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\bin\Release\SES_Analyzer.xml
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\WindowsApplication1.Form1.resources
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\WindowsApplication1.Resources.resources
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\GenerateResource.read.1.tlog
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\GenerateResource.write.1.tlog
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.exe
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.xml
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.pdb
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\bin\Release\SES_Analyzer.exe.manifest
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\bin\Release\SES_Analyzer.application
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.TrustInfo.xml
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.exe.manifest
+c:\documenti_boiero\visual studio 2010\Projects\SES_Analyzer\SES_Analyzer\obj\x86\Release\SES_Analyzer.application
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\bin\Release\SES_Analyzer V3.exe.manifest
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\bin\Release\SES_Analyzer V3.application
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\bin\Release\SES_Analyzer V3.exe
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\bin\Release\SES_Analyzer V3.pdb
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\bin\Release\SES_Analyzer V3.xml
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.TrustInfo.xml
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.exe.manifest
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.application
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.exe
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.xml
+C:\Documenti_Boiero\Visual Studio 2010\Projects\SES_Analyzer_v3\obj\x86\Release\SES_Analyzer V3.pdb
